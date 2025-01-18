@@ -10,3 +10,5 @@ New OFX with icone. Unzip and install to C:\Program Files\Common Files\OFX\Plugi
 04 April 2017
 New OFX : FilmGradePluginV1.1.ofx.bundle and MatrixPluginV2.2.ofx.bundle
 
+18 Jan 2025
+(waiting for ZZZZZZ9125 to respond)
